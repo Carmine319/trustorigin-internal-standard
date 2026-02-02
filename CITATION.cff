@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "TrustOrigin — Internal Standard & Governance Artefact"
+message: "Please cite this governance artefact when referencing TrustOrigin’s neutral registry infrastructure."
+type: standard
+abstract: >
+  TrustOrigin — Internal Standard & Governance Artefact defines the mandatory
+  governance constraints, non-claims boundaries, and operational posture
+  governing the operation of TrustOrigin, a neutral, non-adjudicative
+  registry infrastructure for recording evidence of existence, timing,
+  and custody. This artefact is published for public scrutiny, institutional
+  evaluation, procurement review, and formal citation. It does not constitute
+  software, a service, legal advice, certification, or regulatory approval.
+authors:
+  - family-names: "Vaccaro"
+    given-names: "Carmine"
+    affiliation: "Oriagen AI Ltd (technical operator only)"
+repository-code: "https://github.com/Carmine319/trustorigin-internal-standard"
+url: "https://trustorigin.org"
+license: "CC-BY-4.0"
+keywords:
+  - governance
+  - evidence infrastructure
+  - non-adjudicative registry
+  - compliance readiness
+  - regulatory neutrality
+  - public sector procurement
+version: "1.0"
+date-released: "2026-02-02"
