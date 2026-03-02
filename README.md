@@ -269,3 +269,57 @@ The platform is designed to withstand adversarial examination.
 ## Repository Structure
 
 The repository is organised to reflect architectural maturity and continuity discipline.
+Each directory reflects structural components of the continuity framework.
+
+### /docs  
+Architectural doctrine, governance articulation and vertical deployment models.
+
+### /protocol  
+Canonical serialisation models and lineage enforcement standards.
+
+### /export  
+Deterministic export bundle structures and survivability specifications.
+
+### /verification  
+Integrity validation models and cryptographic anchoring logic.
+
+### /continuity  
+Freeze protocols, migration survivability frameworks and namespace governance.
+
+---
+
+## Security Overview
+
+TrustOrigin operates under:
+
+- HTTPS enforced via edge certificate  
+- TLS 1.3 secure transport  
+- Deterministic integrity verification discipline  
+- Export-based survivability model  
+
+Security posture supports structural governance continuity rather than behavioural monitoring.
+
+---
+
+## Strategic Vision
+
+Continuity Risk is structural, not sector-specific.
+
+TrustOrigin is designed as a cross-sector infrastructure layer capable of preserving governance posture independent of workflow tools, vendor ecosystems or regulatory regimes.
+
+The objective is not to replace existing systems.
+
+The objective is to prevent structural continuity collapse before it escalates into litigation, regulatory exposure or institutional instability.
+
+---
+
+## Contact
+
+Institutional enquiries:  
+contact@trustorigin.org  
+
+Operated by Oriagen AI Ltd, England and Wales.
+
+---
+
+© TrustOrigin – Deterministic Continuity Infrastructure Platform
