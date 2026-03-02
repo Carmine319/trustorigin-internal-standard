@@ -1,222 +1,271 @@
-# TrustOrigin — Internal Standard & Governance Artefact
-
-> **Status:** Public, citable governance standard  
-> **Scope:** Neutral, non-adjudicative registry infrastructure  
-> **Function:** Evidence of existence, timing, and custody  
-> **Nature:** Infrastructure standard (not software, not a service)
+# TrustOrigin  
+## Deterministic Continuity Infrastructure Platform
 
 ---
 
-## What This Repository Is
+## Executive Positioning
 
-This repository publishes the **authoritative Internal Standard and governance artefacts**
-governing the operation of **TrustOrigin**, a neutral technical registry infrastructure
-designed to preserve:
+TrustOrigin is a deterministic continuity infrastructure platform engineered to mitigate structural **Continuity Risk** across governance-critical environments.
 
-- the **existence** of artefacts or declarations,
-- the **time** at which they existed, and
-- the **continuity of custody** across defined events.
+Continuity Risk is the structural failure mode whereby governance-critical artefacts lose traceability, lineage coherence, export survivability or dependency clarity over time. It frequently precedes litigation, regulatory exposure, insurance escalation and reputational damage.
 
-The material in this repository defines **governance constraints**, **non-claims
-boundaries**, and **operational posture**.  
-It does **not** publish software, APIs, SDKs, executable systems, or implementation code.
+TrustOrigin provides:
 
-This repository exists to enable **public scrutiny, institutional evaluation,
-procurement review, and formal citation**.
+- Canonical serialisation discipline  
+- Cryptographic anchoring integrity  
+- Parent-child lineage enforcement  
+- Deterministic export survivability  
+- Vendor neutrality articulation  
+- Migration continuity frameworks  
 
----
-
-## Public Sector & Procurement Positioning (UK)
-
-This repository is published to support **UK public-sector, academic, and regulated-sector**
-evaluation of TrustOrigin as neutral technical infrastructure.
-
-TrustOrigin is intentionally structured to align with UK procurement and governance
-principles, including:
-
-- separation of duties and authority  
-- non-delegation of statutory responsibility  
-- supplier neutrality  
-- auditability without advisory overreach  
-- clear accountability boundaries  
-
-Nothing in this repository constitutes:
-
-- a managed service,
-- a professional advisory engagement,
-- a compliance determination,
-- a certification scheme,
-- or a delegation of regulatory responsibility.
-
-All decision-making authority, compliance assessment, and legal interpretation remain
-solely with the contracting authority and its appointed professional advisers.
+The platform operates as a structural governance layer.  
+It does not assume adjudicative, certification or regulatory authority.
 
 ---
 
-## Not a SaaS Platform (Procurement Clarification)
+## The Core Problem
 
-TrustOrigin is **not a Software-as-a-Service (SaaS) product**.
+Most governance failures are not caused by malicious intent.  
+They are caused by structural continuity collapse.
 
-In particular:
+Common structural failure modes include:
 
-- there is no self-serve onboarding;
-- there is no feature marketplace;
-- there is no outcome-based or usage-based pricing;
-- there are no performance guarantees;
-- there is no automation by default.
+- Revision ambiguity across document versions  
+- Fragmented documentation ecosystems  
+- Vendor dependency lock-in without migration clarity  
+- Non-exportable or proprietary data formats  
+- Unverifiable amendment histories  
+- Inability to freeze documentary state during dispute  
 
-TrustOrigin is licensed as **infrastructure**, not consumed as a software service.
+When governance artefacts cannot be deterministically traced, exported or reconstructed, structural risk accumulates invisibly.
 
-This distinction exists to:
+TrustOrigin introduces deterministic continuity discipline as a sector-agnostic infrastructure layer.
 
-- avoid reliance risk,
-- prevent supplier-induced outcomes,
-- preserve evidentiary neutrality,
-- reduce procurement, audit, and liability exposure.
-
----
-
-## What TrustOrigin Is
-
-TrustOrigin is:
-
-- a **neutral registry infrastructure**;
-- a **technical recording layer**, not an interpretive system;
-- a **time-anchored evidence substrate**;
-- designed to operate **beneath** legal, academic, regulatory, and governance processes.
-
-TrustOrigin records *that something existed at a specific point in time*, not *what it means*.
+It reduces structural ambiguity without altering contractual frameworks.
 
 ---
 
-## What TrustOrigin Is Not
+## Platform Architecture
 
-TrustOrigin is **not**:
+TrustOrigin is built upon the following architectural doctrines:
 
-- a SaaS platform or software product;
-- a compliance, certification, or audit service;
-- a legal, regulatory, or supervisory authority;
-- a decision-making, scoring, or adjudicative system.
+### 1. Canonical Serialisation Model
 
-It does not verify, validate, certify, judge, rank, or assess artefacts, declarations,
-or parties.
+All artefacts are serialised deterministically to eliminate ambiguity in representation. Identical input produces identical structured output.
+
+This ensures reproducible integrity verification across environments.
 
 ---
 
-## Governance & Non-Claims Architecture
+### 2. Parent-Child Lineage Enforcement
 
-All TrustOrigin operations are constrained by a formal **non-claims architecture**.
+Every revision maintains explicit lineage relationships.
 
-The infrastructure does **not** claim to determine:
+This creates:
 
-- truth or falsity;
-- authenticity or originality;
-- ownership or authorship;
-- legality or compliance;
-- admissibility or evidentiary weight.
+- Deterministic version traceability  
+- Structural amendment clarity  
+- Reconstructable document evolution  
 
-All interpretation is **explicitly externalised** to competent authorities.
-
-This posture is structural, contractual, and procedural—not discretionary.
+Lineage is preserved without altering original artefacts.
 
 ---
 
-## Use Across Domains (Vertical-Agnostic)
+### 3. Deterministic Export Bundles
 
-The same neutral registry core may be used across multiple domains, including:
+All registered artefacts can be exported as structured continuity bundles.
 
-- synthetic media and AI-assisted content;
-- music and audio works;
-- gaming and interactive assets;
-- research and academic outputs;
-- publication and archival materials;
-- construction, litigation, and dispute readiness;
-- escrow-like declarative workflows.
+Bundles include:
 
-Domain-specific usage does **not** alter evidentiary meaning, authority, or governance posture.
+- Serialised artefact representation  
+- Integrity hash  
+- Lineage metadata  
+- Dependency declarations  
 
----
-
-## Interpretation for Audit & Assurance Committees
-
-For audit, risk, and assurance purposes:
-
-- TrustOrigin **records existence and custody only**;
-- TrustOrigin **does not express opinions**;
-- TrustOrigin **does not certify compliance**;
-- TrustOrigin **does not influence outcomes**.
-
-Any reliance placed upon TrustOrigin records is a matter for the relying authority,
-assessed under its own governance, legal advice, and statutory framework.
+Export survivability ensures long-term migration independence.
 
 ---
 
-## Citation & Evaluation
+### 4. Vendor Neutrality Doctrine
 
-This repository is **intended to be cited**.
+TrustOrigin explicitly articulates vendor dependency surfaces.
 
-Institutions, researchers, auditors, regulators, and procurement teams may reference
-this repository to:
+It does not bind artefacts to proprietary ecosystems.
 
-- evaluate governance posture;
-- assess neutrality and non-claims boundaries;
-- verify non-delegation of authority;
-- support internal documentation, policy, or risk decisions.
+This enables:
 
-Citation does **not** imply endorsement.
+- Migration clarity  
+- Dependency transparency  
+- Institutional procurement defensibility  
 
 ---
 
-## Relationship to TrustOrigin Website
+### 5. Migration Survivability Plan
 
-This repository complements (but does not replace) the formal documentation published at:
+The platform is designed for structural export portability.
 
-- https://trustorigin.org/governance.html  
-- https://trustorigin.org/non-claims.html  
-- https://trustorigin.org/regulatory-neutrality.html  
-- https://trustorigin.org/compliance-readiness.html  
+Governance artefacts remain reconstructable independent of any single infrastructure provider.
 
-In the event of ambiguity, **formal governance documents prevail**.
+Migration survivability is a core architectural principle, not an afterthought.
 
 ---
 
-## Licensing & Commercial Context (Informational)
+### 6. Freeze Protocol Capability
 
-TrustOrigin infrastructure is made available through **institutional licensing**.
+TrustOrigin supports structured documentary freeze activation.
 
-This repository:
+Freeze states allow organisations to preserve deterministic snapshots during:
 
-- does **not** grant usage rights;
-- does **not** constitute an offer;
-- does **not** define contractual terms.
+- Dispute exposure  
+- Regulatory review  
+- Insurance claim escalation  
+- Board-level investigation  
 
-Commercial licensing does not alter the non-claims posture defined here.
-
----
-
-## Operator Disclosure
-
-TrustOrigin is operated by **Oriagen AI Ltd** (England & Wales).
-
-Oriagen AI Ltd provides **technical operation and maintenance only** and does not:
-
-- verify or validate records;
-- certify compliance;
-- adjudicate disputes;
-- assess legality or evidentiary sufficiency.
+Freeze capability preserves integrity posture without adjudicating claims.
 
 ---
 
-## Final Note
+## Vertical Deployments
 
-This repository exists to make TrustOrigin **inspectable, criticisable, and referenceable**.
-
-Neutrality is not asserted through marketing claims, but through **structural restraint**,
-documented governance, and public scrutiny.
+TrustOrigin operates as a multi-vertical infrastructure platform.  
+Each deployment utilises the same deterministic backbone.
 
 ---
 
-### Contact
+### Construction (Spearhead Vertical)
 
-For institutional, governance, or procurement enquiries:  
-📧 contact@trustorigin.org
+Construction environments are structurally exposed to documentation fragmentation, variation disputes and revision ambiguity.
+
+TrustOrigin enables:
+
+- Structured variation anchoring  
+- Revision lineage enforcement  
+- Dispute freeze preservation  
+- Deterministic handover documentation bundles  
+
+By mitigating structural continuity collapse, the platform reduces ambiguity amplification across project lifecycles.
+
+---
+
+### AI Governance
+
+AI systems introduce dataset lineage complexity, model revision opacity and vendor dependency risk.
+
+TrustOrigin provides:
+
+- AI declaration anchoring  
+- Dataset lineage preservation  
+- Model revision traceability  
+- Vendor dependency articulation  
+- Migration readiness documentation  
+
+This supports institutional AI governance without certifying compliance.
+
+---
+
+### Ethics Infrastructure
+
+Ethics declarations frequently evolve without structured amendment traceability.
+
+TrustOrigin enables:
+
+- Deterministic ethics statement anchoring  
+- Amendment history preservation  
+- Structured declaration export  
+- Governance posture continuity  
+
+The platform preserves articulation clarity without assuming ethical authority.
+
+---
+
+### Research & Publication
+
+Academic and institutional research environments depend on dataset integrity and revision reproducibility.
+
+TrustOrigin provides:
+
+- Dataset anchoring  
+- Publication freeze snapshots  
+- Amendment lineage preservation  
+- Export-ready continuity bundles  
+
+This mitigates continuity collapse during peer review or regulatory scrutiny.
+
+---
+
+### Insurance & Risk Infrastructure
+
+Insurance exposure frequently escalates due to documentary ambiguity.
+
+TrustOrigin enables:
+
+- Structured documentary preservation  
+- Deterministic dispute freeze bundles  
+- Continuity risk surface articulation  
+- Export-verifiable documentation states  
+
+The platform does not assess liability. It preserves structural clarity.
+
+---
+
+### Gaming & Digital Asset Ecosystems
+
+Digital ecosystems depend on release traceability and asset integrity.
+
+TrustOrigin supports:
+
+- Release snapshot anchoring  
+- Asset provenance continuity  
+- Deterministic export survivability  
+- Dependency transparency articulation  
+
+This reduces structural opacity within platform-dependent environments.
+
+---
+
+## Governance Boundaries
+
+TrustOrigin is infrastructure.
+
+It does **not**:
+
+- Adjudicate ownership  
+- Determine liability  
+- Certify regulatory compliance  
+- Replace contractual frameworks  
+- Substitute regulatory authority  
+- Validate the factual accuracy of registered artefacts  
+
+The platform preserves structural continuity only.
+
+This boundary is deliberate and foundational.
+
+---
+
+## Enterprise Model
+
+TrustOrigin operates under institutional licensing structures.
+
+Enterprise deployments support:
+
+- Multi-project namespaces  
+- Structured freeze activation capability  
+- Executive continuity reporting surfaces  
+- Risk scoring integration layers  
+- Deterministic export verification  
+- Migration survivability documentation  
+
+Licensing is structured for:
+
+- Board-level scrutiny  
+- Procurement defensibility  
+- Insurance review  
+- Regulatory observation  
+
+The platform is designed to withstand adversarial examination.
+
+---
+
+## Repository Structure
+
+The repository is organised to reflect architectural maturity and continuity discipline.
